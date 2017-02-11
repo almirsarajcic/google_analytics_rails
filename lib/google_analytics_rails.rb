@@ -1,0 +1,3 @@
+module GoogleAnalyticsRails
+  # Your code goes here...
+end
