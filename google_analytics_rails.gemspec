@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.version     = GoogleAnalyticsRails::VERSION
   s.authors     = ["Almir Sarajčić"]
   s.email       = ["almir.sarajcic@icloud.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of GoogleAnalyticsRails."
-  s.description = "TODO: Description of GoogleAnalyticsRails."
+  s.homepage    = "https://github.com/almirsarajcic/google_analytics_rails"
+  s.summary     = "Google Analytics for Ruby on Rails"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
