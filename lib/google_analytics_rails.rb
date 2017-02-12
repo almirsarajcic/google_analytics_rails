@@ -1,3 +1,4 @@
+require "google_analytics_rails/engine"
+
 module GoogleAnalyticsRails
-  # Your code goes here...
 end
