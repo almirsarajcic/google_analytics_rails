@@ -6,7 +6,7 @@ class @GoogleAnalytics
 
     if typeof Turbolinks isnt "undefined" and Turbolinks.supported
       document.addEventListener "turbolinks:load", (->
-        @trackPageview()
+        GoogleAnalytics.trackPageview()
       ), true
     else
       @trackPageview()
